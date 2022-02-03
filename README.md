@@ -10,15 +10,11 @@ GitHub link:
 [GitHub](https://github.com/sophiekdj/Text-Editor)
 
 Heroku link:
-[Text-Editor App]()
+[Text-Editor App](https://text-editor-skdj.herokuapp.com)
 
 ## Usage
 
-invoked by
-
-`node server.js`
-
-<!-- ![Website](/assets/options.png) -->
+![Text-Editor Website](/assets/homepage.png)
 
 ## License
 
